@@ -15,7 +15,7 @@ A simple command-line tool to open websites directly from your terminal.
 1. Requires **Python 3** and **Git for Windows**
 2. Clone the repo :
 ```
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/zedka450/site-CLI.git
 ```
 3. Copy `site.py` and `site.bat` to `C:\tools\`
 4. Add `C:\tools\` to your PATH
